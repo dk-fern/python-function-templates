@@ -9,3 +9,6 @@ Repo to hold templates for commonly used functions in scripts. Taken/sanatized f
 - Send alert email
 - Write to local appLog
 - Convert datetime to a format valid for SQL
+
+## log_function.py
+- Uses logging library to write more detailed log to error.log file
