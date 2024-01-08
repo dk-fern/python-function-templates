@@ -10,5 +10,10 @@ Repo to hold templates for commonly used functions in scripts. Taken/sanatized f
 - Write to local appLog
 - Convert datetime to a format valid for SQL
 
+## Func2_graphAPI_swsdAPI.py:
+- Retrieve authentication token from Microsoft Azure using the python msal library
+- Pull user data from Entra
+- Pull data from Solar Winds Service Desk API, filter by keyword
+
 ## log_function.py
 - Uses logging library to write more detailed log to error.log file
